@@ -1,15 +1,15 @@
-# ¡Hola! 👋
+# Hello World! 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Jon Cantero Romero, un apasionado desarrollador de software con un espíritu curioso y ganas de aprender continuamente. Aquí encontrarás una breve descripción sobre mí y los enlaces a mis perfiles en línea.
+Welcome to my GitHub profile! I'm Jon Cantero Romero, a passionate software developer with a curious spirit and a constant desire to learn. Here you'll find a brief description about me and links to my online profiles.
 
-## 👨‍💻 Sobre mí
-Desde que me inicié en la programación en 2016, mi pasión por aprender y crecer no ha disminuido. Dedico mi tiempo libre a realizar cursos y aplicar los conocimientos adquiridos en proyectos personales. Estoy convencido de que mantenerme actualizado es clave para ofrecer soluciones innovadoras en mi trabajo y siempre estoy preparado para enfrentar nuevos desafíos.
+## 👨‍💻 About Me
+Since I started programming in 2016, my passion for learning and growing hasn't diminished. I dedicate my free time to taking courses and applying the knowledge I've gained in personal projects. I firmly believe that staying updated is key to offering innovative solutions in my work, and I'm always prepared to face new challenges.
 
-## 🌐 Perfiles y enlaces
+## 🌐 Profiles and Links
 
 - LinkedIn: [linkedin.com/in/jon-cantero-romero-9066a51b6](https://www.linkedin.com/in/jon-cantero-romero-9066a51b6/)
 - Portfolio: [jcantero1998.github.io/portfolio/](https://jcantero1998.github.io/portfolio/)
 
-¡No dudes en contactarme si tienes alguna pregunta o propuesta de colaboración! Estoy abierto/a a nuevas oportunidades y estoy emocionado/a por seguir creciendo en el mundo de la programación.
+Feel free to contact me if you have any questions or collaboration proposals! I'm open to new opportunities and excited to continue growing in the world of programming.
 
-¡Gracias por visitar mi perfi! ✨
+Thank you for visiting my profile! ✨
