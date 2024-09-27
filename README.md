@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-Welcome to my GitHub profile! I'm Jon Cantero Romero, a passionate Full Stack developer with an insatiable thirst for learning. Here you'll find a concise overview of who I am and links to my online profiles.
+Welcome to my GitHub profile! I'm Jon Cantero Romero, a passionate Front-End developer with an insatiable thirst for learning. Here you'll find a concise overview of who I am and links to my online profiles.
 
 ## 👨‍💻 About Me
 Since embarking on my programming journey in 2016, my dedication to learning and personal growth has never waned. During my free time, I immerse myself in courses and apply acquired knowledge to personal projects. I firmly believe that staying up-to-date is pivotal in delivering innovative solutions, and I'm always prepared to tackle new challenges head-on.
