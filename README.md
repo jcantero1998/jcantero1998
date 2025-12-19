@@ -8,7 +8,6 @@ Since embarking on my programming journey in 2016, my dedication to learning and
 ## 🌐 Profiles and Links
 
 - LinkedIn: [linkedin.com/in/jon-cantero-romero](https://www.linkedin.com/in/jon-cantero-romero/)
-- Portfolio: [jcantero1998.github.io/portfolio/](https://jcantero1998.github.io/portfolio/)
 
 Don't hesitate to reach out to me with any inquiries or collaboration proposals! I'm open to fresh opportunities and eagerly look forward to furthering my growth in the vast realm of programming.
 
